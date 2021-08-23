@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UIscene.unity
     guid: 6b3f6340fcc40e54a9d625384031b985
+  - enabled: 1
+    path: Assets/Scenes/Clockscene.unity
+    guid: 5e2052c3383517b4c88cec9d57105179
+  - enabled: 1
+    path: Assets/Scenes/ErwtideasScene.unity
+    guid: 1e423ac6e13cc704b8b7d70fb58d3fe6
+  - enabled: 1
+    path: Assets/Scenes/GunScene.unity
+    guid: f74723969d1155947818f94eaadc7d73
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: cb460fa445b93a241ab93fce2f46276b, type: 2}
     com.unity.addressableassets: {fileID: 11400000, guid: d957b1756bf37f344be69c93497716b5, type: 2}

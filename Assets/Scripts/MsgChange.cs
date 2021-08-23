@@ -5,6 +5,7 @@ using System.ComponentModel.Design;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class MsgChange : MonoBehaviour
@@ -30,6 +31,8 @@ public class MsgChange : MonoBehaviour
         {
             textmsg.text = "Please place yourself in front of clock statue.";
             Debug.Log("clock");
+            //SceneManager.LoadScene("UIobjectsceneTemplate");
+            //lang.onClick.AddListener(changeLangIcon);
         }
         else if (scroll.TargetPanel == 2)
         {
